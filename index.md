@@ -5,4 +5,4 @@ feature_text: |
   # Displacement Activities is being displaced
 ---
 
-please go here for acrive site while I reconfigure: https://displacementactivities1.wordpress.com/
+ **[please go here for archive site while I reconfigure:](https://displacementactivities1.wordpress.com/)**
