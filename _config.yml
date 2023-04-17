@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: https://displacementactivities.org
-domain: ontomena.github.io
+domain: displacementactivities.org
 baseurl: /displaceweb
 title: 'My website'
 description: 'This is my new website'
