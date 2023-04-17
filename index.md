@@ -1,8 +1,8 @@
 ---
-title: UnWelcome to my website
+title: Temporary situation
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  # Eeyup world
+  # Displacement Activities is being displaced
 ---
 
-There is much going on here yet, but watch this space
+please go here for acrive site while I reconfigure: https://displacementactivities1.wordpress.com/
