@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: https://ontomena.github.io
-domain: displacementactivities.org
+url: https://displacementactivities.org
+domain: ontomena.github.io
 baseurl: /displaceweb
 title: 'My website'
 description: 'This is my new website'
