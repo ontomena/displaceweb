@@ -21,9 +21,9 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: https://displacementactivities.org
+url: 
 domain: displacementactivities.org
-baseurl: /displaceweb
+baseurl:
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
