@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: https://displacementactivities.org
 domain: displacementactivities.org
-baseurl: /displaceweb
+baseurl: https://displacementactivities.org/displaceweb
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
