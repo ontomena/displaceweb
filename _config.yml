@@ -55,7 +55,7 @@ collections:
     description: "Forwards and backwards"
     feature_text: |
       Here's the blog
-    feature_image: "/assets/images/pianoweb.jpg"
+    feature_image: "/assets/images/pianoweb1.jpg"
 
 # Collection settings
 defaults:
