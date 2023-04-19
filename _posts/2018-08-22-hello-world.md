@@ -2,7 +2,7 @@
 title: One
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/images/pianoweb.jpg"
 ---
 
 Starting up...
