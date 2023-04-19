@@ -1,6 +1,6 @@
 ---
 title: Temporary situation
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/pianoweb1.jpg"
 feature_text: |
   # DisplacementActivities is being displaced...
 ---

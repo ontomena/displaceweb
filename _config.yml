@@ -27,7 +27,7 @@ baseurl:
 title: 'DA'
 description: 'Dada'
 permalink: pretty
-logo: "/assets/images/logoimg.jpg"
+logo: "/assets/images/logo2.jpg"
 
 # Pagination
 paginate: 5
