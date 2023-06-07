@@ -5,4 +5,4 @@ feature_text: |
   # DisplacementActivities is being displaced...
 ---
 
- please go --->**[GO HERE](https://displacementactivities1.wordpress.com/)**<--- for archive site during the activities of displacement.
+ please--->**[GO HERE](https://displacementactivities1.wordpress.com/)**<--- for archive site during the activities of displacement.
