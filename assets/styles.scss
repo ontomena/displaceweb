@@ -1,14 +1,12 @@
-
 ---
 title: false
 styles: true
 ---
 
-
 // Background colours
 $backgroundColour: #ffffff !default;
-$codeBackgroundColour: #c0c0c0 !default;
-$featureBackgroundColour: #ff0000 !default;
+$codeBackgroundColour: #555555 !default;
+$featureBackgroundColour: #ffffff !default;
 $accentColour: #333333 !default;
 
 // Text colours
@@ -16,13 +14,13 @@ $headingColour: #333333 !default;
 $bodyColour: #333333 !default;
 $linkColour: #333333 !default;
 $hoverColour: #333333 !default;
-$focusColour: #555555 !default;
+$focusColour: #333333 !default;
 $captionColour: #333333 !default;
 $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: '"Noto Sans", sans-serif',
+  font-family:  "'DM Sans', sans-serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -30,7 +28,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Noto Sans", sans-serif',
+  font-family:  "'DM Sans', sans-serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -43,7 +41,8 @@ $monospacetype: (
 ) !default;
 
 // TIP: Load custom fonts in _config.yaml
-// @import "alembic";
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@import "alembic";
 
 // TODO
 // find highlight colour
