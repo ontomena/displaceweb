@@ -1,8 +1,8 @@
 ---
-title: Temporary situation
+title: Home
 feature_image: "/assets/images/pianoweb1e.jpg"
 feature_text: |
-  # DisplacementActivities is being displaced...
+  # DisplacementActivities
 ---
 
- please--->**[GO HERE](https://displacementactivities1.wordpress.com/)**<--- for archive site during Simon Bradley's activities of displacement.
+ ...walking with edges, site of Simon Bradley
