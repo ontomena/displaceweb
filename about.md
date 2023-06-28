@@ -4,6 +4,8 @@ title: About...
 
 DisplacementActivities is the site according to Simon Bradley, artist and oral historian. I work with sound, one way or another. If something doesn't sound, I may encourage it to do so.  
 
+This site is still in the early stages of development as I work my way around GitHub...
+
 Wordpress archive: [here](https://displacementactivities1.wordpress.com/) 
 
 Insta: [@simonbrdly](https://www.instagram.com/simonbrdly)  
