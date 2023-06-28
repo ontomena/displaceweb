@@ -1,7 +1,7 @@
 ---
 title: Workington Piano
 categories:
-- Music
+- General
 feature_image: "/assets/images/pianoweb1.jpg"
 ---
 This piece was produced for the musique concrète CD compilation 'ever present' (2023) published by the Institute for Alien Research on [Bandcamp](https://ifarmusiqueconcretecompilation.bandcamp.com/album/ever-present)
