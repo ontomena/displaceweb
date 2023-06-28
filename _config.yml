@@ -50,11 +50,11 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Blog posts
     output: true
-    description: "Forwards and backwards"
+    description: "Scroll down for earlier ones"
     feature_text: |
-      Here's the blog
+  
     feature_image: "/assets/images/pianoweb1.jpg"
 
 # Collection settings
