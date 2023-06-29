@@ -1,5 +1,5 @@
 ---
-title: Workington Piano
+title: workington piano
 categories:
 - Music
 feature_image: "/assets/images/pianoweb1.jpg"
