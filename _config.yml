@@ -52,7 +52,7 @@ collections:
   posts:
     title: commentarium
     output: true
-    description: "Scroll down for earlier ones"
+    description: "Scroll down for earlier entries"
     feature_text: |
   
     feature_image: "/assets/images/pianoweb1.jpg"
