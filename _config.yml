@@ -35,11 +35,11 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: home
   url: /
 - title: blog
   url: /blog/  
-- title: About
+- title: contact
   url: /about/
 
 # Footer nav
