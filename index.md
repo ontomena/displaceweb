@@ -8,7 +8,7 @@ feature_text: |
  ...sounding and walking with edges: site of Simon Bradley
 
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
- insta: [@simonbrdly](https://www.instagram.com/simonbrdly)
+ insta: [@simonbrdly](https://www.instagram.com/simonbrdly) 
  vimeo: [simon bradey](https://vimeo.com/user6604380) 
  collaborations:    
  vimeo: [ArtCouple](https://vimeo.com/user127952551)  
