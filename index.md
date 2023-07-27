@@ -10,6 +10,6 @@ feature_text: |
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
  insta: [@simonbrdly](https://www.instagram.com/simonbrdly) 
  vimeo: [simon bradey](https://vimeo.com/user6604380) 
- collaborations:    
- vimeo: [ArtCouple](https://vimeo.com/user127952551)  
+ collaborations: 
+ vimeo: [ArtCouple](https://vimeo.com/user127952551) 
  bandcamp: [ESS<>GEE](https://essgee1.bandcamp.com/)   
