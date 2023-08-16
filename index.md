@@ -8,7 +8,7 @@ feature_text: |
  ...sounding and walking with edges:
 
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
- insta: [@simonbrdly](https://www.instagram.com/simonbrdly)  
+ insta/threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
  collaborations:  
  vimeo: [ArtCouple](https://vimeo.com/user127952551)  
  bandcamp: [ESS<>GEE](https://essgee1.bandcamp.com/)   
