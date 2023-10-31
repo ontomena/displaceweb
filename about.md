@@ -12,5 +12,5 @@ Insta: [@simonbrdly](https://www.instagram.com/simonbrdly)
 
 Twit: [@SimonCBradley](https://twitter.com/SimonCBradley)  
 
-E: Simon [at] Bradley dot org
+E: bradleysimon [at] hotmail dot com
 ![logimg]({{ site.baseurl }}/assets/images/logo2.jpg "logoimg")
