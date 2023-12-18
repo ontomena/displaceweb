@@ -1,2 +1,5 @@
 .jekyll-cache/
 _site/
+_posts/.DS_Store
+_posts/alembic-kit-remote-theme.code-workspace
+.DS_Store
