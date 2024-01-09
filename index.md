@@ -11,7 +11,6 @@ feature_text: |
 
 ![Alt text](assets/images/wavesblue-small.jpeg)
 
-
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
  insta/threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
  collaborations:  
