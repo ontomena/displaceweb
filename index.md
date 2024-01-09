@@ -13,12 +13,6 @@ feature_text: |
   <img src="assets/images/wavesblue-small.jpeg" alt="Waves image">
 </p>
 
-
-
-![Alt text](assets/images/wavesblue-small.jpeg)
-
-
-
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
  insta/threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
  collaborations:  
