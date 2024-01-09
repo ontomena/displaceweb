@@ -7,14 +7,11 @@ feature_text: |
 
  ...sounding and walking with edges:
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="/assets/images/wavesblue-small.jpg"
-    alt="Waves">
-</img>
+<div style="text-align: center;">
+
+![alt text](/assets/images/pianoweb1e.jpg "waves")
+
+</div>
 
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
  insta/threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
