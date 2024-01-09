@@ -1,6 +1,6 @@
 ---
 title:
-feature_image: "/assets/images/wavesblue-small.jpg"
+feature_image: "/assets/images/pianoweb1.jpg"
 feature_text: |
   # DisplacementActivities
 ---
