@@ -11,7 +11,7 @@ feature_text: |
 
 </ center 
 ![Alt text](assets/images/wavesblue-small.jpeg)
-/>
+
 
 
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
