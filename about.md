@@ -6,7 +6,7 @@ DisplacementActivities is a site according to Simon Bradley. I work with sound m
 
 Wordpress archive: [here](https://displacementactivities1.wordpress.com/) 
 
-Insta: [@simonbrdly](https://www.instagram.com/simonbrdly)  
+Insta/Threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
 
 Twit/X: [@SimonCBradley](https://twitter.com/SimonCBradley)  
 
