@@ -4,9 +4,9 @@ feature_image: "/assets/images/pianoweb1e.jpg"
 feature_text: |
   # DisplacementActivities
 ---
+...sounding and walking with edges:  
 
-“All is flux. Nothing stays still,”---Heraclitus
-              "Who are our nomads today, our real Nietzscheans?"---Gilles Deleuze
+“All is flux. Nothing stays still,”---Heraclitus  
 
  In addition to the primatological and psychological senses, I see Displacement Activities as pervasive and arguably more real than the set of clearly defined and fixed entities we commonly consider to be 'real' in everyday life. Everything is undergoing some form of displacement: we know this, but we often resist it. Perhaps we might imagine an impermeable Monolith at the centre of the Universe, unmoving and unchanging, but that is beside the point... or maybe it is the (abstract) point. DisplacementActivities, as a method i deploy, is not an avoidance of, but an engagement with an obscured reality where all aspects of Being are touched. Even in the realms of our Deepest Inner Peace and Stillness, we'd probably become aware of the sudden absence of DisplacementActivities---in the same way we might notice the whirring of an air conditioning system suddenly stopping, when we weren't previously conscious of the sound at all. This phenomenon is called 'remanence' by Jean-François Augoyard (2005). In this liminal existence DisplacementActivities thrive.
  
