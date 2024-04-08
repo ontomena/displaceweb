@@ -1,3 +1,10 @@
+---
+title: Suite Six Dream
+categories:
+- Album
+feature_image: "/assets/images/pianoweb1.jpg"
+---
+
 **Suite Six Dream**
 
 <p align="center">
