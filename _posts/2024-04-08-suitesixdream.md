@@ -9,9 +9,9 @@ feature_image: "/assets/images/pianoweb1.jpg"
   <img src="assets/images/wavesblue-small.jpeg" alt="Waves image">
 </p>
 
-<p align="center">
-  <img src="assets/images/SuiteSixß-bandcamp.jpg" alt="CD cover">
-</p>  
+
+<img src="assets/images/SuiteSixß-bandcamp.jpg" alt="CD cover">
+
 
 It is now around 20 years since I produced *Suite Six Dream*, and it seems more appropriate than ever. It is undoubtedly a difficult work to listen too given its uncompromising pursuit of the insoluble, but there are some extraordinary peaks reached in the wasteland of noise and meaninglessness. Perhaps it is one of the only works that captures a true state of optimistic nihilism.  
 
@@ -20,7 +20,7 @@ It is now around 20 years since I produced *Suite Six Dream*, and it seems more 
 You can view/download the original text accompanying the CD
 [here](https://drive.google.com/file/d/1yE8pvh7J2XDPf2-fp3T6r9Dpb6APG2nG/view?usp=drive_link).  
 
-**<p style="text-align: center;">Text posted on 2004website</p>**
+**Text posted on 2004website**
 **Description:** performance project involving live improvised music dance and acting. Video projection and prepared sounds will be involved. So far there is a CD and text booklet. The complete text is available in .pdf format (333kb). A pilot version of Noiseflower was performed at Leeds Metropolitan University (Scratch July 2004) with Jack Glover, Carolyn Baker and myself. I am now putting together the next stage of performance which will involve at least two acting parts. The final product will be around 90 minutes long and would come under the general bracket of physical theatre.\
 **Objective:** use improvisation, composition and aleatory techniques to weave a performance expressive of love passion anger emotion in a reified, alienated post-modern world that is at once fragmented and yet glimpses at some kind of (w)hole. Through the logic of disintegration to build something strong yet tender - beautiful yet often painful. As a child might struggle to harmonise the incommensurabilities conjured by two parents arguing themselves into divorce. The passionate ramming together of opposites. Two fists clenched bashing one another yet melting like wax into a new form that is the coming of age of the child. And she will tell the story---it is her 16th birthday after all...\
 **Essences:** the peculiar feelings of fractuousness, common in the arbitrocracy, abound. The notion of atonality extends beyond microtonal polarities and merges within the fractal dialectics of the subsurd releasing a lattice of dynamic equality fields populated by potentiality spores engendered by the arbitrary couplings of simulacra. Judgement is the key.\
