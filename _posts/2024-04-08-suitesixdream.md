@@ -10,10 +10,10 @@ feature_image: "/assets/images/pianoweb1.jpg"
 </p>
 
 
-<img src="assets/images/SuiteSixß-bandcamp.jpg" alt="CD cover">
+<img src="assets/images/SuiteSix-bandcamp.jpg" alt="CD cover">
 
 
-It is now around 20 years since I produced *Suite Six Dream*, and it seems more appropriate than ever. It is undoubtedly a difficult work to listen too given its uncompromising pursuit of the insoluble, but there are some extraordinary peaks reached in the wasteland of noise and meaninglessness. Perhaps it is one of the only works that captures a true state of optimistic nihilism.  
+It is now around 20 years since I produced *Suite Six Dream*, and it seems more appropriate than ever. It is undoubtedly a difficult work to listen to given its uncompromising pursuit of the insoluble, but there are some extraordinary peaks reached in the wasteland of noise and meaninglessness. Perhaps it is one of the only works that captures a true state of optimistic nihilism.  
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3182810470/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://simonbradley.bandcamp.com/album/suite-six-dream">Suite Six Dream by Simon Bradley</a></iframe>
 
