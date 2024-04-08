@@ -5,8 +5,6 @@ categories:
 feature_image: "/assets/images/pianoweb1.jpg"
 ---
 
-**Suite Six Dream**
-
 <p align="center">
   <img src="assets/images/wavesblue-small.jpeg" alt="Waves image">
 </p>
