@@ -52,7 +52,7 @@ collections:
   posts:
     title: commentarium
     output: true
-    description: "Scroll down for earlier entries"
+    description: "Click titles to open commentary"
     feature_text: |
   
     feature_image: "/assets/images/pianoweb1.jpg"
