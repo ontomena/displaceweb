@@ -4,7 +4,7 @@ feature_image: "/assets/images/pianoweb1e.jpg"
 feature_text: |
   # DisplacementActivities
 ---
-...sounding and walking with edges:  
+...backwards is the way forward:  
 
 “All is flux. Nothing stays still,”---Heraclitus  
 
