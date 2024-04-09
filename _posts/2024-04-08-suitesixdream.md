@@ -5,12 +5,7 @@ categories:
 feature_image: "/assets/images/pianoweb1.jpg"
 ---
 
-<p align="center">
-  <img src="assets/images/wavesblue-small.jpeg" alt="Waves image">
-</p>
-
-
-<img src="assets/images/SuiteSix-bandcamp.jpg" alt="CD cover">
+![Cover](/assets/images/suitesix.jpg)
 
 
 It is now around 20 years since I produced *Suite Six Dream*, and it seems more appropriate than ever. It is undoubtedly a difficult work to listen to given its uncompromising pursuit of the insoluble, but there are some extraordinary peaks reached in the wasteland of noise and meaninglessness. Perhaps it is one of the only works that captures a true state of optimistic nihilism.  
