@@ -24,6 +24,7 @@ Politics is immanent in any art form that engages with boundaries and edges, imp
 
  vimeo: [simon bradley](https://vimeo.com/user6604380)  
  insta/threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
+ bandcamp: [simonbradley](https://simonbradley.bandcamp.com/)  
  collaborations:  
  vimeo: [ArtCouple](https://vimeo.com/user127952551)  
  bandcamp: [ESS<>GEE](https://essgee1.bandcamp.com/)   
