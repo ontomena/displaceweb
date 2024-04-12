@@ -1,9 +1,18 @@
 ---
-title:Template
-feature_image: "/assets/images/pianoweb1e.jpg"
+title: Template
+categories:
+- Word
+feature_image: "/assets/images/pianoweb1.jpg"
 feature_text: |
   # DisplacementActivities
+
 ---
+
+
+
+
+
+
 ...sounding and walking with edges:  
 **bold**    two spaces for line break  
 *italics*
