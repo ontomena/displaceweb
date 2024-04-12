@@ -6,7 +6,8 @@ feature_text: |
 ---
 ...backwards is the way forward:  
 
-“All is flux. Nothing stays still,”---Heraclitus  
+“All is flux”---Heraclitus  
+"Everything's fucked"---Dirty Three  
 
  Everything is undergoing some form of displacement: we know this, but we often resist it. Perhaps the unending procession of human displacement shades our understanding, or possibly our own mortal journey itself. Conversely, DisplacementActivities, as a personal method, is not an avoidance of, but an engagement with this hidden reality touching all aspects of Being---as Heraclitus noted two and a half thousand years ago. The 'hidden reality' need not be mystical, it is readily present; perhaps it can be likened to the unseen atoms and molecules colliding with particles that are visible under a standard microscope, as in Brownian motion. The random walks of the larger particles may be explained by sub-microscopic nudging. Similarly, in the hallowed realms of Deep Inner Peace and Stillness, we might become aware of a sudden temporary *absence* of DisplacementActivities---in the same way we might notice the whirring of an air conditioning system falling silent, when we weren't previously conscious of it at all. In the sound world, this phenomenon is called 'remanence' (Jean-François Augoyard, 2005). Within this liminal domain, the method of DisplacementActivities thrives as a form of knowing or, more precisely, unknowing.
  
