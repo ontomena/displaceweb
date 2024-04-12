@@ -7,6 +7,6 @@ DisplacementActivities is a site according to Simon Bradley, combining archives 
 
 Insta/Threads: [@simonbrdly](https://www.instagram.com/simonbrdly)  
 
-Twit/X: [@SimonCBradley](https://twitter.com/SimonCBradley)  
+Twit/X: [@SimonCBradley](https://twitter.com/SimonCBradley)
 
 E: bradleysimon [at] hotmail dot com
