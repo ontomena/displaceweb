@@ -39,7 +39,7 @@ navigation_header:
   url: /
 - title: commentarium
   url: /blog/  
-- title: contact
+- title: contacto
   url: /about/
   - title: key
   url: /key/
