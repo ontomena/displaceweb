@@ -41,8 +41,6 @@ navigation_header:
   url: /blog/  
 - title: contact
   url: /about/
-  - title: key
-  url: /key/
 
 # Footer nav
 navigation_footer:
