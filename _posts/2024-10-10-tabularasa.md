@@ -10,7 +10,7 @@ feature_text: |
 
 ---
 
-<iframe src="https://player.vimeo.com/video/1016794253?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tabula Rasa"></iframe>
+<iframe src="https://player.vimeo.com/video/1016794253" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
 
 This piece has been a long time in the making and unmaking. I first came across the word 'stet' when I was working in the print industry back in the 1980s. Hot metal was being displaced by phototypsetting and alternative ways of printing that prefigured our current reliance on digital technology. The got rid of all the wooden fonts. All the re-useable type.
 
