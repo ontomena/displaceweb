@@ -8,7 +8,7 @@ feature_text: |
 
 “Never mind about the Russians. Mr. Gridley has become much more of a menace”---Franklyn Ambruster in *The Notorius Landlady*, 1962 
 
-On October 27th, 1962, my father grabbed a few possessions, myself and my mother, piled us into the car and we set off for Cheddar Gorge, a journey of around 170 miles. 
+On October 27th, 1962, my father grabbed a few possessions, myself and my mother, piled us into the car and we set off for Cheddar Gorge, a journey of around 170 miles. Back to the cave. 
  
 The Cuban Missile Crisis occurred between 16th Oct 1962 – 29th Oct 1962, shortly after *The Notorious Landlady* was released.
 
