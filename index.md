@@ -4,7 +4,7 @@ feature_image: "/assets/images/pianoweb1e.jpg"
 feature_text: |
   # DisplacementActivities
 ---
-...backwards is the way forward:  
+"Mickey Mouse has grown up a cow"---David Bowie, 1971 
 
 “Never mind about the Russians. Mr. Gridley has become much more of a menace”---Franklyn Ambruster in *The Notorius Landlady*, 1962 
 
