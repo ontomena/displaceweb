@@ -15,10 +15,10 @@ feature_text: |
 
 Very excited to receive an Arts Council Develop Your Creative Practice award (DYCP) to help me combine ambisonics with geomagnetic data, bringing global fluctuations of magnetic north into performance and sound installation. Over the coming year, I'll be working with various specialists across several fields to explore what on/in Earth is going on and how shifting sounds can bring these hidden spatial patterns to body and ear in both new and ancient ways.
 
-After last year's pilot project 'The Barrow Alignment', collaborating with Jonathan Lindh supported by Full of Noises, I am now in a position to take the ideas much further. I'll be working with Dr Callum Watson at the British Geological Survey in Edinburgh in order to find out what kinds of data might be useful and how they process it in the creation of visual maps. I'll then be discussing the options with Dr Alex Harker at Huddersfield University
+After last year's pilot project 'The Barrow Alignment', collaborating with Jonathan Lindh supported by Full of Noises, I am now in a position to take the ideas much further. I'll be working with Dr Callum Watson at the [British Geological Survey](https://geomag.bgs.ac.uk/] in Edinburgh in order to find out what kinds of data might be useful and how they process it in the creation of visual maps. I'll then be discussing ways of converting this into geospatial data for shifting elements of sound around ambisonic speaker arrays with Dr Alex Harker at Huddersfield University.
 
 
-[British Geological Survey](https://geomag.bgs.ac.uk/
+ 
 
 
 

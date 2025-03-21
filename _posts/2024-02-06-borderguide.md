@@ -2,6 +2,7 @@
 title: border guide
 categories:
 - Animation
+- Word
 feature_image: "/assets/images/pianoweb1.jpg"
 ---
 
