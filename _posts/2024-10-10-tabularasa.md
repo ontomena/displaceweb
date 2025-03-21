@@ -5,8 +5,6 @@ categories:
 - Word
 - Music
 feature_image: "/assets/images/pianoweb1.jpg"
-feature_text: |
-  # DisplacementActivities
 
 ---
 
