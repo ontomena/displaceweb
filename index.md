@@ -36,3 +36,8 @@ I have a vague recollection that there was an incident involving a sudden trip t
  collaborations:  
  vimeo: [ArtCouple](https://vimeo.com/user127952551)  
  bandcamp: [ESS<>GEE](https://essgee1.bandcamp.com/)   
+
+
+<p align="center">
+  <img src="https://www.artscouncil.org.uk/sites/default/files/download-file/grant_jpeg_black.jpg" alt="Arts Council Logo">
+</p>
