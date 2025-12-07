@@ -30,7 +30,7 @@ Politics is most likely immanent in any art form, but particularly in one that e
   <img src="assets/images/wavesblue-small.jpeg" alt="Waves image">
 </p>
 
-I have a vague recollection that there was an incident involving a sudden trip to my grandparents in Yeovil. I remember a sense of good-humoured panic. I think it was the first time I'd ever been to Cheddar Gorge. I only understood many years later how this was an early manifestation of DisplacementActivities at work in my life, when my father explained the urgency of his action in the light of the rapid escalation of the Cuban Missile Crisis that day. It was one of those vanishingly few occasions when I looked upon him with a deep feeling of pride.  
+I have a vague recollection that there was an incident involving a sudden trip to my grandparents in Yeovil. I remember a sense of good-humoured panic. I think it was the first time I'd ever been to Cheddar Gorge. I only understood many years later how this was an early manifestation of DisplacementActivities at work in my life, when my father explained the urgency of his action in the light of the rapid escalation of the Cuban Missile Crisis that day. It was one of those vanishingly few occasions when I looked upon him with a deep feeling of pride. More than that: even a supposedly secure little family living in a small safe town in the heart of England can be numbered among a band of fearful, fleeing refugees within an instant. Something, I'll not forget.   
 
 "Go back. What was must never be"---Alan Garner, *Thursbitch*, 2003 
 
